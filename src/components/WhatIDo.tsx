@@ -87,24 +87,17 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
+              <h3>ANALYST</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Dynamic intern with a goal-oriented mindset, adept at problem-solving and solid computer skills.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">Data Analysis</div>
+                <div className="what-tags">Computer skills</div>
+                <div className="what-tags">Problem-solving</div>
+                <div className="what-tags">Goal-oriented mindset</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +121,19 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
+              <h3>SOFT SKILLS</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Fostering teamwork, enhancing public speaking skills, and building strong client relationships.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Teamwork</div>
+                <div className="what-tags">Collaboration</div>
+                <div className="what-tags">Fast learner</div>
+                <div className="what-tags">Quick learner</div>
+                <div className="what-tags">Public speaking</div>
+                <div className="what-tags">Client relationships</div>
               </div>
               <div className="what-arrow"></div>
             </div>

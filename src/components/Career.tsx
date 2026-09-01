@@ -15,43 +15,26 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Intern</h4>
+                <h5>Previous Employer</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>Experience</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Analyzed problems and worked with teams to develop solutions.
+              Contributed to a positive team environment by collaborating with fellow interns on group projects and presentations.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Technical And Scientific Communication</h4>
+                <h5>GURU KASHI UNIVERSITY Bathinda, India</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>Expected July 2027</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
-              </div>
-              <h3>NOW</h3>
-            </div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Pursuing Technical And Scientific Communication with a focus on problem-solving, public speaking, and teamwork.
             </p>
           </div>
         </div>
